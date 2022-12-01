@@ -1,0 +1,31 @@
+HTML Sigla para HyperText Markup Language — Linguagem de Marcação de Hipertexto —,
+o HTML é o componente base da web. Isso quer dizer que ele permite a construção de websites e a inserção de novos conteúdos,
+como imagens e vídeos, por meio dos hipertextos.
+
+hr = linha horizontal para separar um texto
+ul = lista não ordenada
+ol = lista ordenada
+li = a Lista dos Itens de um elemento HTML
+h1, h2, h3, h4, h5, h6 = atribuída ao titulo
+
+div - Serve para isolar em blocos nossos códigos. adicionar scripts em certo ponto.
+
+span = usado para agrupar os elementos para fins de estilo. 
+
+img src = adicionar uma imagem 
+
+target = _blank - Abre uma nova aba no navegador.
+
+TABELA :
+Quando  iniciar uma tabela, começar com "tr" para fazer os subtitulos, e o preenchimento da lista será a tag "td" , que serão as linhas.
+tr = table row é usada para definir uma linha. 
+td= significam "table data," que é o conteúdo de uma célula de dados.
+
+FORMULÁRIO:
+
+o Elemento <form > é o elemento que define o formulário e os atributos que definem a maneira como esse formulário se comporta. 
+
+<form action=""> Define o local através de URL ao qual serão enviados todos os dados recolhidos do formulário.
+
+<label> representa uma legenda para um item em uma interface de usuário.
+

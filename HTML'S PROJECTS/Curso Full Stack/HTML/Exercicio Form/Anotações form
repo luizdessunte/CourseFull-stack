@@ -1,0 +1,36 @@
+<forms> 
+são campos que recebem as entradas dos usuários
+elementos que fazem parte do form :
+
+form>
+    input> tag de entrada 
+
+Existe vários tipos de Input  : tipo text : define uma linha de texto dentro do campo
+                                tipo radio : define o botão com opções de escolha
+                                tipo submit ( submeter o formulario)
+
+Atributo <action>  é onde vai estar a URL para onde mandaremos as informações do nosso form / site, que pode ser do mesmo projeto
+ou de um projeto separado 
+
+o que é servidor ?
+quando um form submete as informações, ele manda para o backEnd, que seria o software que recebe as informações e escrever no banco de dados.
+
+tag <label> é um texto associado ao Input, que serve para você entender o que o input precisa receber.
+
+<id > identificador do input para dizer qual elemento ele é, exemplo:  <input type="text" id=" q" >  ele vai estar associado ao label, 
+    para que o label funcione
+    <label for=" q">  procurar </label>
+    <input type="text" id="q" name=" q">
+
+    q é a abreviação de QUERY 
+
+placeholder: é o que está como exemplo do campo. 
+
+    SUbmit:  vai ser o botão que iremos apertar para enviar as informações
+
+    GET : quando queremos pegar alguma coisa e não enviar informações para o servidor.
+
+Quando for dar opções em lista suspensa, usar:
+< select name="" id="" > 
+    
+<textar

@@ -1,0 +1,38 @@
+Para puxar o style css para sua pagina HTML, você precisa:
+- abrir a tag <link rel="stylesheet" href="style.css"> 
+
+as cores podem ser especificadas pellas seguintes formas:
+-Nome
+-valores RGB
+-valores hexadecimais;
+-Valores HSL (CSS3)
+-Valores HWB (CSS4)
+
+Sempre é bom definir as cores por hexadecimais, pois pode ter alguns navegadores que podem
+reconhecer a cor mais clara ou escuro da qual foi selecionada por nome.
+
+O formato Hexadecimal é a forma mais usada para definir as cores usadas, e ela é composta
+por 16 simbolos diferentes:
+ de 0, 1 ,2,3, 4, 5, 6, 7, 8,9,A,B,C,D,E,F
+
+A cor hexadecimal é definida  por um conjunto de 6 simbolos:
+  #RR GG BB  ( red, green, blue)
+E como exemplo : #FF0000 red
+
+Background color é uma propriedade utilizada para definir a cor de fundo de um elemento.
+background color is a used property to define the color for background of a element.
+
+: class serve para aplicar estilos à vários elementos ao mesmo tempo. 
+através do id (# nomedoelemento), é aplicado apenas ao elemento especificos 
+
+Para modificar uma parte especificada no html, colocar # na pagina de CSS com o nome especifico
+
+modificar a cor de fundo da pagina é body { background-color}
+
+                          FONTE
+ para modificar a fonte : 
+ fontfamily: "nome da fonte";
+ fontsize: "tamanho da fonte";
+ fontweight: "peso da fonte";
+ line-height: "espaçamento entre as linhas";
+ text-align: "alinhamento de um titulo";
